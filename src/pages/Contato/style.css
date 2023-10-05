@@ -1,0 +1,20 @@
+.dados{
+    color:whitesmoke;
+}
+
+span{
+    color: rgb(218, 218, 0);
+}
+
+ul{
+    margin-left: 30px;
+}
+
+h4{
+    font-weight: normal;
+}
+
+h5{
+    font-weight: 700;
+    font-size: 14px;
+}
